@@ -1,0 +1,49 @@
+{
+  "id": "2004Biologie",
+  "title": [
+    {
+      "lang": "de",
+      "value": "Bildungsstandards im Fach Biologie MSA 2004"
+    }
+  ],
+  "csv_delimiter": ",",
+  "base": "https://w3id.org/iqb/v43",
+  "outDir": "./",
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "vocabularies": [
+    {
+      "id": "k1",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Standards für die Kompetenzbereiche des Faches Biologie"
+        }
+      ],
+      "filenameSource": "k1_Bildungsstandards_Kompetenzbereiche.csv",
+      "filenameTarget": "k1_Bildungsstandards_Kompetenzbereiche.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Kompetenzen werden an Inhalten erworben. Die Breite der Fachwissenschaft Biologie und ihr hoher Wissensstand sowie die gegenwärtige Dynamik der Biologie erfordern für den Biologieunterricht eine Reduktion der Inhalte auf den Kern von biologischem Wissen und ein exemplarisches Vorgehen. Dieses Wissen wird auf der Grundlage von drei in sich vernetzten Basiskonzepten erarbeitet, die ein systemisches und multiperspektivisches Denken sowie eine Beschränkung auf das Wesentliche fördern. \n\nFür den Mittleren Schulabschluss werden die Inhalte im Fach Biologie in den folgenden drei Basiskonzepten strukturiert:\n\nSystem, Struktur und Funktion, Entwicklung\"\""
+        }
+      ]
+    },
+    {
+      "id": "a1",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Anforderungsbereiche"
+        }
+      ],
+      "filenameSource": "a1_Anforderungsbereiche.csv",
+      "filenameTarget": "a1_Anforderungsbereiche.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "Da noch keine empirisch abgesicherten Kompetenzstufenmodelle vorliegen, wird zunächst zur Einschätzung der in den Aufgabenbeispielen gestellten Anforderungen auf drei Bereiche zurückgegriffen, die sich in ihrer Beschreibung an den Einheitlichen Prüfungsanforderungen in der Abiturprüfung (EPA) orientieren. Dabei gilt, dass die Anforderungsbereiche nicht Ausprägungen oder Niveaustufen einer Kompetenz sind. Es handelt sich vielmehr um Merkmale von Aufgaben, die verschiedene Schwierigkeitsgrade innerhalb ein und derselben Kompetenz abbilden können. Die nachfolgenden Formulierungen zeigen deshalb zunächst charakterisierende Kriterien zur Einordnung in einen der Anforderungsbereiche auf.e"
+        }
+      ]
+    }
+  ]
+}

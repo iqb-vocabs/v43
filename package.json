@@ -1,0 +1,23 @@
+{
+  "name": "v43",
+  "version": "0.1.0",
+  "description": "Bildungsstandards im Fach Biologie mSA 2004",
+  "main": "index.js",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v43.git"
+  },
+  "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v43/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v43#readme",
+  "dependencies": {
+    "@iqb/csv2ttl": "^0.7.9"
+  }
+}
