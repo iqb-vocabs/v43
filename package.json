@@ -1,7 +1,7 @@
 {
   "name": "v43",
   "version": "0.1.0",
-  "description": "Bildungsstandards im Fach Biologie mSA 2004",
+  "description": "Bildungsstandards im Fach Biologie MSA 2004",
   "main": "index.js",
   "scripts": {
     "run_id": "addidcsv csv",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/iqb-vocabs/v43#readme",
   "dependencies": {
-    "@iqb/csv2ttl": "^0.7.9"
+    "@iqb/csv2ttl": "^0.8.0"
   }
 }
