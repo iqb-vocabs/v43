@@ -430,7 +430,7 @@ n1:r9d
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards im Fach Biologie MSA 2004 - Standards für die Kompetenzbereiche des Faches Biologie"@de;
+	dct:title "Bildungsstandards Biologie MSA 2004 - Standards (Kompetenzen)"@de;
 	dct:description """Kompetenzen werden an Inhalten erworben. Die Breite der Fachwissenschaft Biologie und ihr hoher Wissensstand sowie die gegenwärtige Dynamik der Biologie erfordern für den Biologieunterricht eine Reduktion der Inhalte auf den Kern von biologischem Wissen und ein exemplarisches Vorgehen. Dieses Wissen wird auf der Grundlage von drei in sich vernetzten Basiskonzepten erarbeitet, die ein systemisches und multiperspektivisches Denken sowie eine Beschränkung auf das Wesentliche fördern. 
 
 Für den Mittleren Schulabschluss werden die Inhalte im Fach Biologie in den folgenden drei Basiskonzepten strukturiert:

@@ -3,7 +3,7 @@
   "title": [
     {
       "lang": "de",
-      "value": "Bildungsstandards im Fach Biologie MSA 2004"
+      "value": "Bildungsstandards Biologie MSA 2004"
     }
   ],
   "csv_delimiter": ",",
@@ -16,7 +16,7 @@
       "title": [
         {
           "lang": "de",
-          "value": "Standards für die Kompetenzbereiche des Faches Biologie"
+          "value": "Standards (Kompetenzen)"
         }
       ],
       "filenameSource": "k1_Bildungsstandards_Kompetenzbereiche.csv",
